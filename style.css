@@ -1,0 +1,14 @@
+.flex-navbar-brand{
+  display: flex;
+  width:50%;
+}
+  .row-2{
+    background-color: aliceblue;
+  }
+.row-3{
+  background-color: aliceblue;
+}
+.flex-box-3{
+  display: flex;
+}
+ 
